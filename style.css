@@ -601,6 +601,9 @@ footer p img{
 	.section3 .empty{
 		width:35%;
 	}
+	.popular1 img{
+		height:200px;
+	}
 	.popular1 figcaption{
 		font-size:13px;
 	}
